@@ -1,7 +1,6 @@
-<p align="center">
-  <img height="150" src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg?sanitize=true" />
-</p>
+ARGA,ARGVA,AttentiveFP,Captum,ComplEx,CorrectAndSmooth,DeepGCNLayer,DeepGraphInfomax,DimeNet,DimeNetPlusPlus,DistMult,EdgeCNN,GAE,GAT,GATv2,GCN,GITMol,GLEM,GIN,GNNFF,GraphSAGE,GraphUNet,GRetriever,HeteroJumpingKnowledge,InnerProductDecoder,JumpingKnowledge,KGEModel,LabelPropagation,LightGCN,LINKX,MetaLayer,MetaPath2Vec,MLP,MoleculeGPT,Node2Vec,
 
+PMLP,PNA,RECT_L,RENet,RotatE,SchNet,SignedGCN,TGNMemory,TransE,ViSNet,VGAE
 ______________________________________________________________________
 
 [![PyPI Version][pypi-image]][pypi-url]
